@@ -4,9 +4,9 @@
 This repo involves the  use of tensorflow object detection API to build a custom sign language recognizer. For this project I focused on few words,verbs,pronouns and greetings in the Nigerian Sign Language. 
 
 ## Snapshots
-![name](/Result Images/name.png)
+![name](Result_Images/name.PNG)
 
-![how](/Result Images/how.png)
+![how](/Result_Images/how.PNG)
 
 ## Steps
 All steps followed are available [here](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html) the tensorflow object detection API docs.
